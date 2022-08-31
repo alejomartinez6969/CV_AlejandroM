@@ -5,8 +5,8 @@ body{
     font-family: "arial";
 }
 
-div{
-    border: 3px solid rgb(143, 143, 143);
+#contenedor{
+    border: 1px solid rgb(143, 143, 143);
     border-radius: 5px;
     width: 70%;
     justify-content: center;
@@ -19,4 +19,12 @@ div{
 
 p{
     font-size: 18px;
+}
+
+#cabecera{
+    background: #66d;
+    color: white;
+    padding: 0.5em;
+    margin: 0;
+    
 }
